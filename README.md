@@ -25,5 +25,5 @@ Your will find in the GitHub repository:
 - a copy of the dataset used, that you can also find on [ourworldindata] (https://ourworldindata.org/coronavirus-data)
 - the code for the web app
 
-The web app has been deployed on heroku and can be seen [here] (https://covid19sb.herokuapp.com/5)
+The web app has been deployed on heroku and can be seen [here] (https://covid19sb.herokuapp.com)
 
